@@ -55,6 +55,13 @@ else{
 
 $sql2="INSERT INTO `courstu`(`Reg_ID`, `Course_ID`, `Slot`,`Credits`,`serno`,`Course_Name`,`Professor_Name`) VALUES ('$un','$cou','$s' , '$c','$x','$Name','$pro')";
 $result2 = mysqli_query($conn, $sql2);
+?>
+    <div id="cou">
+    <h3 id="H23"><?php echo "YOU CAN'T REGISTER MULTIPLE COURSES AT SAME SLOT OR SAME COURSE AT MULTIPLE TIMES";?> </h3>
+    </div>
+    <?php
+exit;
+    <?php
 $rw = mysqli_fetch_assoc($result2);
 if($result2){
     header('Location:Ttb.php');
