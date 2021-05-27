@@ -9,10 +9,10 @@
 session_start();
 
 
-$servername = "localhost";
-$username = "HariHara";
-$password = "Hari@12";
-$database = "course_reg";
+$servername = "remotemysql.com";
+$username = "yt8u76VtRK";
+$password = "bcXvcwYCWA";
+$database = "yt8u76VtRK";
 
 // Create a connection
 $conn = mysqli_connect($servername, $username, $password, $database);
