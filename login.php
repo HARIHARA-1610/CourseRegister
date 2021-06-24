@@ -15,7 +15,8 @@ window.history.forward();
     body{
         padding-left: 400px;
         padding-top: 130px;
-        background-color: rgb(255, 255, 255);
+        background-color:;
+<img src="https://wallpapercave.com/wp/QeJVcRl.jpg">
     }
     div{
         height: 110px;
