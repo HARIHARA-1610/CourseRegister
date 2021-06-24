@@ -16,7 +16,7 @@ window.history.forward();
         padding-left: 400px;
         padding-top: 130px;
         background-color:;
-        background-image:url(https://media.istockphoto.com/vectors/global-networks-cloud-computing-design-concept-vector-id1153461651?b=1&k=6&m=1153461651&s=612x612&w=0&h=C2EVjPrZl_4EdkOPKncCZd2QaII4xk4GhEeNwpcbvTc=);
+        background-image:url(https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Cloud-Computing-1024x576.jpg);
         background-size:cover;
         background-repeat:no-repeat;
         background-attachment:fixed;
