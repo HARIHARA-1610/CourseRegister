@@ -16,7 +16,7 @@ window.history.forward();
         padding-left: 400px;
         padding-top: 130px;
         background-color:;
-<img src="https://wallpapercave.com/wp/QeJVcRl.jpg">
+        background-image:url(https://wallpapercave.com/wp/QeJVcRl.jpg);
     }
     div{
         height: 110px;
