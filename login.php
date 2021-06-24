@@ -25,7 +25,7 @@ window.history.forward();
     div{
         height: 110px;
         width: 250px;
-        background-color:rgb(138, 247, 210);
+        background-color:#4f595f;
         opacity: 0.5;
         padding:50px ;
         border-radius: 20px;
