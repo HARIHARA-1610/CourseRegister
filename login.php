@@ -16,7 +16,7 @@ window.history.forward();
         padding-left: 400px;
         padding-top: 130px;
         background-color:;
-        background-image:url(https://images.unsplash.com/photo-1586191582151-f73872dfd183?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxNzA4Mjc2fHxlbnwwfHx8fA%3D%3D&w=1000&q=80);
+        background-image:url(https://media.istockphoto.com/vectors/global-networks-cloud-computing-design-concept-vector-id1153461651?b=1&k=6&m=1153461651&s=612x612&w=0&h=C2EVjPrZl_4EdkOPKncCZd2QaII4xk4GhEeNwpcbvTc=);
         background-size:cover;
         background-repeat:no-repeat;
         background-attachment:fixed;
