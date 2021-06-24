@@ -17,6 +17,10 @@ window.history.forward();
         padding-top: 130px;
         background-color:;
         background-image:url(https://wallpapercave.com/wp/QeJVcRl.jpg);
+        background-size:cover;
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        
     }
     div{
         height: 110px;
